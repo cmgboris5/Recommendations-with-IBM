@@ -27,4 +27,3 @@ The project considered to analyse interactions on IBM Watson Studio platform and
     IV. Content Based Recommendations (EXTRA - NOT REQUIRED)
     V. Matrix Factorization
 
-![image](https://user-images.githubusercontent.com/103899117/174489797-007e703a-d946-460a-ab1a-05a342155e6b.png)
